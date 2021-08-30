@@ -1,5 +1,5 @@
 # 시각장애인을 위한 대중교통 시스템
-## Seamless Station System
+## Smart Seamless Station
 
 본 프로젝트는 부산대학교 제4회 창의융합 소프트웨어 해커톤<br>
 "금정산 독수리처럼" 팀의 산출물입니다.
